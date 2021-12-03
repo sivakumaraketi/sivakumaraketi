@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sivakumaraketi
 - 👀 I’m interested in ... Nature
-- 🌱 I’m currently learning ... React
+- 🌱 I’m currently learning ... python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... sivakumaraketi@gmail.com
 
