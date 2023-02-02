@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sivakumaraketi
 - 👀 I’m interested in ... Nature
-- 🌱 I’m currently learning ... python 
+- 🌱 I’m currently learning ... Java 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... sivakumaraketi@gmail.com
+- 📫 How to reach me ... sivakumaraketi@gmail.com and phone +91 9494944889
 
 
 <!---
