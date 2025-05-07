@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Nature
 - 🌱 I’m currently learning ... Java vue js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... sivakumaraketi@gmail.com and phone +91 9494944889
+- 📫 How to reach me ... sivakumaraketi@gmail.com and phone +49 15560768236
 
 
 <!---
